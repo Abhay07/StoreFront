@@ -1,0 +1,32 @@
+.product-list-container{
+	padding: 20px;
+}
+
+.productName{
+	margin-top: 0;
+}
+.productImgs{
+	width: 400px;
+	height: 300px;
+	background-color: gray;
+	margin-right: 20px;
+}
+
+.reviews{
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+	border-bottom: 1px solid black;
+}
+
+.imagesContainer{
+	margin-top: 20px;
+}
+
+.priceContainer.detailPage{
+	justify-content: flex-start;
+	padding: 0;
+}
+
+.priceContainer.detailPage > *{
+	margin-right: 20px;
+}

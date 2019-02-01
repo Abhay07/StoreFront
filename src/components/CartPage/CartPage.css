@@ -1,0 +1,18 @@
+.emptyCartTxt{
+	text-align: center;
+	width: 100%;
+	font-size:18px;
+}
+
+.cartHeader{
+	display: flex;
+	justify-content: space-between;
+	padding: 20px 30px;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+.cartLabel{
+	font-size: 20px;
+	font-weight: bold;
+}

@@ -1,0 +1,26 @@
+.header{
+	min-height: 60px;
+	background-color: #212121;
+	line-height: 60px;
+	color:#fff;
+	display: flex;
+	padding: 0 20px;
+	justify-content: space-between;
+}
+
+.cartIcon{
+	width:30px;
+}
+
+.cartContainer{
+	height: 60px;
+	display: flex;
+	align-items: center;
+	color: #fff;
+	text-decoration: none;
+}
+
+.resetLinkCss{
+	color: #fff;
+	text-decoration: none;
+}
